@@ -1,4 +1,4 @@
-https://www.threads.net/@jaysonscottheise?invite=0 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#https://www.threads.net/@jaysonscottheise?invite=0 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -703,3 +703,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 Created by Jason Scott Heise
+Owned by Elon Musk 
